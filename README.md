@@ -1,1 +1,2 @@
 # Amindev
+print( hello world )
